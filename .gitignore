@@ -1,20 +1,5 @@
-#1 cache & build files
-__pycache__/
-*.pyc
-*.csv
-*.txt
-*.xlsx
+#_______________________________________
+#  1. cache, build, db sqlite3 files
+#^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 *.class
-
-#2 PyInstaller Distribution
-dist/
-
-#3 Temporary exec files for TEST
-#_.py
-_.html
-_.pdb
-
-#4 Temporary python DB files
-pdb_temp/
-# _log/
-_temp/
