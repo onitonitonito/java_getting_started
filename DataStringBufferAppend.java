@@ -2,10 +2,12 @@ public class DataStringBufferAppend {
 
   public static void main(String[] args)  {
     StringBuffer sb = new StringBuffer();
+
     /* Create Object class using 'new' option
     * Collect letters using, .append() method into buffer temporarily
     * print buffers using, .toString() method (flushing)
     */
+
       sb.append("1.Use StringBuffer = ");
       sb.append("hello ");
       sb.append("Java, ");
